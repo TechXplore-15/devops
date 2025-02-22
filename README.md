@@ -1,2 +1,2 @@
-# devops
-დევოპსის ნაწილის ახსნა
+# TechXplore Team 15 DevOps
+
